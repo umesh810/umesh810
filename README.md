@@ -23,12 +23,8 @@ Hi, I am Umesh kumar singh...I am a 3rd year student pursuing my B-tech degree i
 ## Language and Tools
 
 <table width="100">
-<tr><td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
-    </td>
-   <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-    </td>
+<tr>
+   
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
     </td>
